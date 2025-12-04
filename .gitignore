@@ -44,3 +44,4 @@
 
 # Ignore Kamal files
 .kamal
+config/deploy.*
